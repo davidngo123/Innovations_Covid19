@@ -22,7 +22,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Global Tracking"
+            android:text="Washington COVID-19 Tracking"
             android:textColor="#050505"
             android:textAllCaps="true"
             android:textAlignment="center"

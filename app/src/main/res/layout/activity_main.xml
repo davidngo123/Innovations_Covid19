@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".MainActivity">
+    tools:context=".cases">
 
 
 
@@ -150,12 +150,18 @@
             android:textStyle="bold"
             android:fontFamily="sans-serif-light" />
 
-
-        <!--Text view to display Affected Countries-->
-
-        <!--Text view to display the updated number when data
-         will fetch from the API. For now default set to 0 -->
-
     </LinearLayout>
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="153dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginEnd="126dp"
+        android:layout_marginBottom="36dp"
+        android:text="Risk Calculator" />
+
 
 </android.widget.RelativeLayout>

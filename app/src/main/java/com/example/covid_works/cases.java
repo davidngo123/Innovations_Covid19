@@ -54,7 +54,7 @@ public class cases extends AppCompatActivity {
 
             // Create a String request
             // using Volley Library
-            String url = "https://disease.sh/v3/covid-19/all";
+            String url = "https://disease.sh/v3/covid-19/states/washington";
 
             StringRequest request
                     = new StringRequest(
@@ -83,7 +83,7 @@ public class cases extends AppCompatActivity {
                                                 "cases"));
                                 tvCritical.setText(
                                         jsonObject.getString(
-                                                "critical"));
+                                                "recovered"));
                                 tvActive.setText(
                                         jsonObject.getString(
                                                 "active"));

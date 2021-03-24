@@ -15,7 +15,7 @@ The android app lets you:
 
 ## Screenshots
 
-[<img src="/readme/Wallabag%20Reading%20List.png" align="left"
+[<img src="/readme/ss2.png" align="left"
 width="200"
     hspace="10" vspace="10">](/readme/Wallabag%20Reading%20List.png)
 [<img src="/readme/ss1.png" align="center"

@@ -10,7 +10,7 @@ This project was made for the Innovations Hackathon from Impact++. The primarily
 The android app lets you:
 - Lets you see data for COVID-19 for Washington state or what ever state you want it to be.
 - Calculate your risk towards having COVID-19.
-- Locate all the avaliable vaccination in Washington or whatever state you need it to be. 
+- Locate all the avaliable vaccination in Washington or whatever state you need it to be. (No longer functional due to API getting taken down)
 - Completely ad-free.
 
 ## Screenshots
